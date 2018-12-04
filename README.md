@@ -24,6 +24,9 @@
   - http://nextint.co.jp
 
 ## FAQ
+### スクリーンショットを投稿するには
+Chrome ExtensionかAndroid Clientを利用してください。
+
 ### 記事を削除するには
 ![delete article](/img/delete_article.png)
 
