@@ -24,13 +24,13 @@
   - http://nextint.co.jp
 
 ## FAQ
-## 記事を削除するには
+### 記事を削除するには
 ![delete article](/img/delete_article.png)
 
 ウェブサイト名の部分を長押ししてください。
 
 
-## コメントを削除するには
+### コメントを削除するには
 ![delete comment](/img/delete_comment.png)
 
 自身のアイコン部分を長押ししてください。
