@@ -7,6 +7,13 @@
 バグ報告や機能要望については、Issueに書き込んでください。
 現在認識中のバグやタスクについては、Projectsを閲覧してください。
 
+[Vein本体の開発状況](https://github.com/tokoroten/vein_support/projects/1)
+
+[Chrome Extensionの開発状況](https://github.com/tokoroten/vein_support/projects/2)
+
+[Android Clientの開発状況](https://github.com/tokoroten/vein_support/projects/3)
+
+
 ## 各種リンク
 - サービスURL
   - https://open.vein.space/
