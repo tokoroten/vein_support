@@ -31,9 +31,11 @@ Chrome ExtensionかAndroid Clientを利用してください。
 ![delete article](/img/delete_article.png)
 
 ウェブサイト名の部分を長押ししてください。
-
+削除した記事は、他の人が閲覧済みであっても、スペース上から消されます。
+再度投稿した場合は、新規記事として投稿されます。
 
 ### コメントを削除するには
 ![delete comment](/img/delete_comment.png)
 
 自身のアイコン部分を長押ししてください。
+自分以外のユーザのコメントを削除することはできません。
